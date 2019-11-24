@@ -10,6 +10,7 @@ run the sql query before starting this app else page might not work correctly.
 Steps to get setup:
 
 open query.sql file and execute all the query.
+
 change connection properties inside server/index.js file(line 7).
 for starting the server type "npm run dev" inside the server directory.
 
